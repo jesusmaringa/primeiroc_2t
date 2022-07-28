@@ -1,6 +1,14 @@
 body {
-  background: pink;
+  background: pink
 }
 h1 {
   text-align: center;
+}
+.caixa1 {
+   position: relative;
+   background: blue;
+   width: 200px;
+   height: 200px;
+   color: #FFFFFF;
+   left: 50%;
 }
