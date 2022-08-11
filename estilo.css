@@ -41,3 +41,16 @@ li a:hover{
   background: rgb(219, 209, 151);
   color: black;
 } 
+.imgEstudo {
+    position: absolute;
+    width: 400px;
+    height: 120px;
+    background: #ade0e2;
+    top: 40%;
+}
+#aguia {
+   position: absolute;
+   width: 50%;
+   right: 0;
+   top:0
+}
